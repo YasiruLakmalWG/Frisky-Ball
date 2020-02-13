@@ -1,0 +1,8 @@
+Angular font
+Made by Staffan Vilcans.
+
+The font was made with the ide to only use 90 degree angles and one angle 45 degrees to the right.
+
+This font is free (as in beer). You may install the font on as many computers you wish, but I ask you to kindly give med credit if you include it in a collection or put it up for download. I know that the font lacks some characters. If you want to add them, please do, but send me the updated font so I can include it in the next release. You will ofcourse be credited as a co-creator.
+
+If you want to contact me, do so via e-mail to liftarn@interface1.net or visit my page at http://www.interface1.net

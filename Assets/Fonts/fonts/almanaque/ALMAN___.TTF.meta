@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 828d3082162e98544ba49fd83d29f724
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Almanaque
+  fontNames:
+  - Almanaque
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1f3a81a0894cefe4f896ea71fdc30abe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

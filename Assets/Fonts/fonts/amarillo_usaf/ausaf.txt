@@ -1,0 +1,200 @@
+Amarillo USAF (30-day Trial)
+
+ Produced and distributed by TLai Enterprises (Media Design Fonts)
+   http://www.tlai.com
+   tlai.enterprises@usa.net
+
+ AmarilloUSAF- Copyright (c) 1994, 1996, 1998 by Tom C. Lai  All Rights
+Reserved.
+ Documentation Rev. 980904 - Release 013S-980904
+
+
+table of contents:
+
+ What is Amarillo USAF?
+ How do I install this font?
+ How do I use this font?
+ Registering - How do I do it?
+ How do I get in touch with TLai Enterprises?
+ License and other legal information.
+
+
+What is Amarillo USAF?
+
+Amarillo USAF is an aircraft marking font that duplicates the lettering
+specification used for current US Air Force aircraft.  You can find this
+style of lettering on US military aircraft dating back to WWII, on both
+Navy and Army/Air Force planes and helicopters. Some modelers have used it
+to add N-numbers to reproductions of civilian aircraft.  With this font,
+you can create authentic decals for scale models, make vinyl lettering for
+movie and television props, and accurately reproduce markings on 3D modeled
+aircraft (all depending on your level of expertise.)   Both Macintosh and
+PC versions are available.  (This 30-day shareware trial version is offered
+in complete form.  If you wish to keep it, please remember to pay your
+registration fee.)
+
+
+How do I install this font?
+
+(Win95/98, WinNT)
+
+If you're installing the TrueType version, open up your Control Panel
+(Start > Settings > Control Panel) and then open up the Fonts folder.  You
+can install by either selecting "Install New Font..." from the File menu,
+or by dragging the "amarurgt.ttf" file into the Fonts folder.  After
+installing, you may have to restart your current applications for Amarillo
+USAF to appear.  In some cases, you may have to restart Windows.
+
+
+(Win3.1/3.1x)
+If you're trying to install under Windows 3.1, open up your Control Panel
+(Main > Control Panel) and then open up the Fonts icon.  You can install by
+clicking the "Add" button.
+
+If you're trying to install the Type 1 version, you must have Adobe Type
+Manager or an equivalent Postscript interpreter/rasterizer available.  To
+install, please refer to the instructions that came with those utilities
+regarding installation and font-management.
+
+If you are installing this font on a Chyron or SGI system, please refer to
+the documentation that came with your font converter/installer.
+
+WARNING: Do not install both Type 1 and TrueType versions of the same font
+at the same time - this may produce unpredictable results.  It is okay to
+mix Type 1 and TrueType, as long as you don't mix two versions of the same
+font.
+
+
+How do I use this font?
+
+Amarillo USAF comes in two formats:  Type 1 Postscript, and TrueType.  Both
+of these font formats are vector-based, meaning that you can scale your
+text to any size without suffering from "jaggies."  This is important if
+you want output at different sizes to look the same.
+
+Type 1 is usually preferred if you plan on outputting your work through a
+service bureau.  If you're working at home, you'll need a
+Postscript-compatible printer or a software-based rasterizer, like Adobe
+Type Manager (ATM), or Ghostscript.  If you don't have ATM, or choose not
+to use Postscript, you can use TrueType.  TrueType, a different font format
+created by Apple Computer and Microsoft, is built into all modern versions
+of the MacOS, and handles rasterization of TrueType fonts at different
+sizes, just as ATM does with Type 1 fonts.
+
+Once you've installed the format that you wish to use, you should be able
+to use it in any of your favorite word-processing, design layout, or
+image-manipulation programs, by selecting AmarilloUSAF-Regular from the
+font menu.   You can scale it in a variety of different sizes, and
+depending on the features of the program you are using, change the color,
+spacing, and pitch (angle) of the font to fit your needs.
+
+If you wish to make scale model decals, there is a very good collection of
+tips concerning types of printers, decal paper, and application techniques
+available in the rec.models.scale FAQ.  A link to the FAQ is available at
+the USA IPMS site:
+
+     http://www.ipmsusa.org
+
+The USA branch of the IPMS (International Plastic Modelers' Society) is
+also a great place to find out more about modeling in general.  In addition
+to the link to tips and resources, the site also has links to IPMS chapters
+across the United States, and chapters internationally.
+
+
+Registering - How do I do it?
+
+Thank you for your choice to keep Amarillo USAF.  We hope that you will
+continue to find this font useful, and suggest that you also take a look at
+LongBeach USN, a US Navy marking font.  You can find more info at
+http://www.tlai.com.
+
+To register this shareware trial version, follow the directions in the "To
+Register..." folder that was included in the archive.
+
+  * The cost of Amarillo USAF is $12 for a single user license.
+
+  * The cost of a network pack license is $50 for up to 5 users.
+    (A network pack license is required for installs on networked servers
+and printers.)
+
+To embed the font as vector information in a game or other software, please
+contact us to arrange licensing.
+
+More information is available in the "To Register..." folder, or online
+from our site at http://www.tlai.com
+
+
+How do I get in touch with TLai Enterprises?
+
+Here is our contact information:
+
+INTERNET:
+
+Website:
+   http://www.tlai.com
+
+E-Mail:
+  tlai.enterprises@usa.net
+
+
+US POSTAL:  (Allow up to 2 weeks for receipt and reply.)
+
+   Tom C. Lai
+   c/o Kagi
+   1442-A Walnut Street #392-TB
+   Berkeley, California, 94709-1405
+   USA
+
+Correspondence and payment addresses are slightly different!  Make sure you
+send payments to the address given to you by the Registration application
+("regausaf.exe".)
+
+Junk e-mail (aka, spam) is not accepted at the above e-mail address.  Say
+no to spammers!
+
+
+License and other legal information.
+
+By using this software, you accept and agree to the conditions as set forth
+in this agreement.
+
+YOU CANNOT:
+
+Distribute this product commercially without express written consent of
+author.  Translate or create derivative works based upon this software.
+Sub-license, sell, rent, lend, or lease any part of the software.  Remove,
+replace, obscure, or alter any documentation or copyright notices contained
+within the archive or the software itself.  Distribute this software in
+anything other than the original archive.  Distribute this software without
+the original documentation.  Reverse engineer, decompile, or disassemble
+this software.
+
+
+NOTICE AND DISCLAIMER
+
+Government End Users. The software, documents, and fonts are classified as
+"Commercial Computer Software" and "Commercial Computer Software
+Documentation" as used in 48 C.F.R. 12.212 and are provided to the
+Government under restricted rights. Use, duplication, and disclosure are
+subject to restrictions as defined in Clause 252.227-7013(c)(1) of the
+DFARS, Clause 52.227-19(c)(2) of the FAR, or in Clause 18-52.227-86(d) of
+the NASA Supplement to the FAR as applicable.
+
+Disclaimer of Warranty on Software. You expressly acknowledge and agree
+that use of the software, documents, and fonts is at your own risk. The
+software, documentation and fonts are provided AS IS, without warranty of
+any kind. Both the author and TLai Enterprises disclaims all warranties,
+express or implied, including without limitation the warranties that the
+Software is free of defects, noninfringing, merchantable, or fit for a
+particular purpose.
+
+Limitation of Liability. In no event shall the author or TLai Enterprises
+be liable for any incidental, special, direct, indirect, or consequential
+costs or damages due to any cause arising out of the misuse, use or
+inability to use the software, documentation or fonts, even if the author
+or TLai Enterprises has been advised or should be aware of the possibility
+of such costs or damages.
+
+All trademarks mentioned in the above document are the property of their
+respective owners.
+

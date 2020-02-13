@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f6942fdfe41bf1741a8aa00a7074c69c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bruce Mikita
+  fontNames:
+  - Bruce Mikita
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7385b27243756644298a36389a1059d4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

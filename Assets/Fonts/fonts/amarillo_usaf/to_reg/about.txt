@@ -1,0 +1,14 @@
+- You can pay your registration fee via secured WWW pages, using either
+Netscape or Internet Explorer.  These secured pages protect your ordering
+information and take credit card orders only.  Open "buyonlin.htm" using
+your browser, or direct your browser to "https://order.kagi.com/?TB1"
+
+- For all other registration methods (check, First Virtual, etc.), use the
+Register application "register.exe"  This application will allow
+you to pay via e-mail, fax, and postal mail.  Non-US currencies ARE
+accepted!
+
+- Purchase orders can be made via the Register application - follow the
+instructions in "reginf.txt"
+
+* Orders processed by Kagi (sm)

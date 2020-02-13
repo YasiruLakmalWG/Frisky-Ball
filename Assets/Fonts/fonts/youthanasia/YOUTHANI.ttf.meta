@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f4b394ff2bb62a249b2251839a9691de
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Youthanasia
+  fontNames:
+  - Youthanasia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 296dccec9807cf04db8ba6269a6663a8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

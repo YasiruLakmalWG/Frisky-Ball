@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: df4eda43192a94e49beed95ec935fa0d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blaster Infinite
+  fontNames:
+  - Blaster Infinite
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3b3f0a0bd0002a9469c4a0a96f0dba12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

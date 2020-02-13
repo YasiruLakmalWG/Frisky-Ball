@@ -1,0 +1,116 @@
+REGISTRATION INFORMATION FOR:
+Amarillo USAF - R013S-980904
+
+Thank you for taking the time to register this fine product.  There are
+several ways you can pay for Amarillo USAF.  Since we are a small company,
+we use a dedicated payment processor called Kagi, to process credit card
+registrations, fax and e-mail registrations, and registrations in both US
+and non-US currencies, just to name a few.  This allows us flexibility in
+accepting different types of payments from all around the world.
+
+After your registration is received, a confirmation will be sent via e-mail
+(or postal mail, if requested.)  Depending on your registration method,
+this may take from a few days (Internet), upwards of several weeks (postal
+mail.)  Postal receipts will take a longer time than e-mail receipts.
+
+
+The pricing is as follows:
+
+  - The cost of Amarillo USAF is $12 for a single user license.
+
+  - The cost of a network pack license is $50 or up to 5 users.
+    (A network pack license is required for installs on networked servers
+and printers.)
+
+To embed the font as vector information in a game or other software, please
+contact us at <tclai@usa.net> to arrange licensing.  Do not talk to Kagi,
+as they have no control over licensing of this product - they process
+payments only.
+
+For multiple license discounts, e-mail us to arrange terms.
+
+
+Ways of registering:
+
+ONLINE (easiest):  credit card only
+
+To register via our online order/registration pages, click on the bookmarks
+located in the "to_reg" folder.  Bookmarks for both Netscape Navigator and
+Microsoft Internet Explorer are provided.  To reach the order/registration
+site manually, point your browser to:
+
+   https://order.kagi.com/?TB1
+
+This site is uses SSL (secure sockets layer) encryption to protect your
+personal data during the transaction.  There, you can choose which licenses
+you wish to purchase, and then pay using your choice of credit card.  At
+this time, Kagi allows us to accept Mastercard, Visa, American Express,
+Discover, and Diners Card.
+
+If you are willing to use a non-secure site (no encryption), or if your
+browser does not support encrypted transactions, you can go to
+[http://order.kagi.com/?TB1] instead.  Beware that transactions on the
+unsecured site are NOT protected.
+
+You will be charged in US$ - if your card is not in US$, the amount will
+automatically be converted by your credit card provider into your local
+currency.  The charge will show up on your statement as being from Kagi,
+not from TLai Enterprises - this is correct.
+
+
+REGISTER APPLICATION (most versatile):  all forms of payment
+
+The register application - "register.exe", is the most versatile way to
+pay.  You can use credit card, check or money order (checks and money
+orders must be drawn in US dollars, from a US bank), or even cash - if you
+need to.  Just launch the register application, chose the products you wish
+to purchase, your payment option, and then follow the instructions.
+
+To submit a purchase order, choose the "Invoice" option in the Register
+application - "register.exe".  Follow the instructions and fill out the
+form as indicated.  This will result in an invoice which can then be
+submitted to your purchasing department.
+
+
+You can send the form produced by the register application via:
+
+  - E-Mail
+  - Postal Mail
+  - Fax
+
+to Kagi at the following addresses and numbers:
+
+  shareware@kagi.com
+
+  Kagi
+  1442-A Walnut Street #392-TB
+  Berkeley, California 94709-1405 USA
+
+  510 652-6589 FAX
+
+Kagi's website is:
+
+  http://www.kagi.com
+
+
+TELEPHONE (most expensive):  credit card only
+
+Kagi does offer ordering by phone.  However, if you have another way of
+ordering (fax, e-mail, etc.) they advise you to use those methods instead.
+Phone orders can only be taken when an operator is available (usually
+during business hours in California), and Kagi will automatically add an
+extra $5 service charge (which we get none of) to your order in addition to
+any long distance and/or toll charges levied by your phone company.  You
+will automatically get a postal receipt (at additional charge), unless you
+specify otherwise.
+
+In case you still wish to order by phone, or must (due to company policy
+regarding the Internet, or if you are unwilling to use other methods), the
+number is +1 (510) 658-5244.  You should have a touch-tone telephone when
+you call.
+
+Be advised that the operator will NOT be able to answer ANY questions about
+the product you are ordering.  Kagi only processes payments, and the
+operator will most likely know less about the product that you are ordering
+than you do.  To get help with questions or problems installing, e-mail
+<tlai.enterprises@usa.net> instead.
